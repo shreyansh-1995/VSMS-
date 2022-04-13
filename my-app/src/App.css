@@ -1,0 +1,70 @@
+img {
+  height: 500px;
+  /* Permalink - use to edit and share this gradient: https://colorzilla.com/gradient-editor/#e4f5fc+0,bfe8f9+21,9fd8ef+47,2ab0ed+82 */
+  background: #0f249e; /* Old browsers */
+  background: -moz-linear-gradient(
+    left,
+    rgb(152, 174, 216) 0%,
+    #6e87db 21%,
+    #506cd1 47%,
+    #2a43a8 82%
+  ); /* FF3.6-15 */
+  background: -webkit-linear-gradient(
+    left,
+    rgb(152, 174, 216) 0%,
+    #6e87db 21%,
+    #506cd1 47%,
+    #2a43a8 82%
+  ); /* Chrome10-25,Safari5.1-6 */
+  background: linear-gradient(
+    to right,
+    rgb(152, 174, 216) 0%,
+    #6e87db 21%,
+    #506cd1 47%,
+    #2a43a8 82%
+  ); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+  filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#b45454', endColorstr='#a82a2a',GradientType=1 ); /* IE6-9 */
+}
+.text {
+  text-align: center;
+ 
+}
+.blocktext {
+  margin-top: 100px;
+  height: 500px;
+ margin-left: 240px;
+  align-items: center
+}
+#home{
+ 
+  margin-left:0px;
+  margin-right:0px;
+  background-size: cover;
+  width: 1530px;
+  height: 600px;
+ object-fit: fill;
+}
+.profile{
+  margin-left: 280px;
+}
+.profilebutton{
+  margin-left: 260px;
+}
+
+.logo-image{
+  width: 35px;
+  height: 35px;
+  border-radius: 50%;
+  overflow: hidden;
+  margin-top: -6px;
+}
+
+/* .background-image{
+  background-image:;
+  background-size:cover;
+  background: no-repeat;
+
+} */
+/* .navbar-brand{
+  color: blue;
+} */
